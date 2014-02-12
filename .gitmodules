@@ -1,0 +1,3 @@
+[submodule "modules/gerrit"]
+	path = modules/gerrit
+	url = https://github.com/roidelapluie/puppet-gerrit.git
