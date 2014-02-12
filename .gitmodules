@@ -1,3 +1,6 @@
 [submodule "modules/gerrit"]
 	path = modules/gerrit
 	url = https://github.com/roidelapluie/puppet-gerrit.git
+[submodule "modules/inifile"]
+	path = modules/inifile
+	url = https://github.com/puppetlabs/puppetlabs-inifile.git
