@@ -25,5 +25,7 @@ node default {
       database_username => 'gerrit',
       database_password => 'strongerpassword',
       database_host     => 'localhost',
+      auth_type         => 'DEVELOPMENT_BECOME_ANY_ACCOUNT',
+      download_scheme   => 'ssh',
   }
 }
